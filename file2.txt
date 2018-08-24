@@ -1,3 +1,5 @@
 Hello
 This file is created in remote repository.
 Bye
+
+Making changes from local repository
